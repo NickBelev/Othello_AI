@@ -103,13 +103,9 @@ optional arguments:
   --autoplay_runs AUTOPLAY_RUNS
 ```
 
-## Issues? Bugs? Questions?
-
-Feel free to open an issue in this repository, or contact us in Ed thread.
-
 ## About
 
-This is a class project for COMP 424, McGill University, Fall 2024 (it was originally forked with the permission of Jackie Cheung).
+This is a class project for COMP 424, McGill University, Fall 2024
 
 ## License
 
