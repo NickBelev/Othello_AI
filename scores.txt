@@ -1,0 +1,38 @@
+vs. Random:
+
+6x6: 
+AI p1: consistently wins
+AI p2: consistently wins
+
+8x8: 
+AI p1: consistently wins
+AI p2: consistently wins
+
+10x10
+AI p1: consistently wins, tied once
+AI p2: consistently wins
+
+12x12
+AI p1: consistently wins
+AI p2: consistently wins
+
+vs. GPT:
+
+6x6: 
+AI p1: consistently wins
+AI p2: consistently wins
+
+8x8: 
+AI p1: consistently wins
+AI p2: consistently wins
+ 
+10x10
+AI p1: consistently loses****
+AI p2: consistently wins
+
+12x12
+AI p1: consistently wins
+AI p2: consistently loses****
+
+vs. Human:
+Haven't managed to beat it yet
